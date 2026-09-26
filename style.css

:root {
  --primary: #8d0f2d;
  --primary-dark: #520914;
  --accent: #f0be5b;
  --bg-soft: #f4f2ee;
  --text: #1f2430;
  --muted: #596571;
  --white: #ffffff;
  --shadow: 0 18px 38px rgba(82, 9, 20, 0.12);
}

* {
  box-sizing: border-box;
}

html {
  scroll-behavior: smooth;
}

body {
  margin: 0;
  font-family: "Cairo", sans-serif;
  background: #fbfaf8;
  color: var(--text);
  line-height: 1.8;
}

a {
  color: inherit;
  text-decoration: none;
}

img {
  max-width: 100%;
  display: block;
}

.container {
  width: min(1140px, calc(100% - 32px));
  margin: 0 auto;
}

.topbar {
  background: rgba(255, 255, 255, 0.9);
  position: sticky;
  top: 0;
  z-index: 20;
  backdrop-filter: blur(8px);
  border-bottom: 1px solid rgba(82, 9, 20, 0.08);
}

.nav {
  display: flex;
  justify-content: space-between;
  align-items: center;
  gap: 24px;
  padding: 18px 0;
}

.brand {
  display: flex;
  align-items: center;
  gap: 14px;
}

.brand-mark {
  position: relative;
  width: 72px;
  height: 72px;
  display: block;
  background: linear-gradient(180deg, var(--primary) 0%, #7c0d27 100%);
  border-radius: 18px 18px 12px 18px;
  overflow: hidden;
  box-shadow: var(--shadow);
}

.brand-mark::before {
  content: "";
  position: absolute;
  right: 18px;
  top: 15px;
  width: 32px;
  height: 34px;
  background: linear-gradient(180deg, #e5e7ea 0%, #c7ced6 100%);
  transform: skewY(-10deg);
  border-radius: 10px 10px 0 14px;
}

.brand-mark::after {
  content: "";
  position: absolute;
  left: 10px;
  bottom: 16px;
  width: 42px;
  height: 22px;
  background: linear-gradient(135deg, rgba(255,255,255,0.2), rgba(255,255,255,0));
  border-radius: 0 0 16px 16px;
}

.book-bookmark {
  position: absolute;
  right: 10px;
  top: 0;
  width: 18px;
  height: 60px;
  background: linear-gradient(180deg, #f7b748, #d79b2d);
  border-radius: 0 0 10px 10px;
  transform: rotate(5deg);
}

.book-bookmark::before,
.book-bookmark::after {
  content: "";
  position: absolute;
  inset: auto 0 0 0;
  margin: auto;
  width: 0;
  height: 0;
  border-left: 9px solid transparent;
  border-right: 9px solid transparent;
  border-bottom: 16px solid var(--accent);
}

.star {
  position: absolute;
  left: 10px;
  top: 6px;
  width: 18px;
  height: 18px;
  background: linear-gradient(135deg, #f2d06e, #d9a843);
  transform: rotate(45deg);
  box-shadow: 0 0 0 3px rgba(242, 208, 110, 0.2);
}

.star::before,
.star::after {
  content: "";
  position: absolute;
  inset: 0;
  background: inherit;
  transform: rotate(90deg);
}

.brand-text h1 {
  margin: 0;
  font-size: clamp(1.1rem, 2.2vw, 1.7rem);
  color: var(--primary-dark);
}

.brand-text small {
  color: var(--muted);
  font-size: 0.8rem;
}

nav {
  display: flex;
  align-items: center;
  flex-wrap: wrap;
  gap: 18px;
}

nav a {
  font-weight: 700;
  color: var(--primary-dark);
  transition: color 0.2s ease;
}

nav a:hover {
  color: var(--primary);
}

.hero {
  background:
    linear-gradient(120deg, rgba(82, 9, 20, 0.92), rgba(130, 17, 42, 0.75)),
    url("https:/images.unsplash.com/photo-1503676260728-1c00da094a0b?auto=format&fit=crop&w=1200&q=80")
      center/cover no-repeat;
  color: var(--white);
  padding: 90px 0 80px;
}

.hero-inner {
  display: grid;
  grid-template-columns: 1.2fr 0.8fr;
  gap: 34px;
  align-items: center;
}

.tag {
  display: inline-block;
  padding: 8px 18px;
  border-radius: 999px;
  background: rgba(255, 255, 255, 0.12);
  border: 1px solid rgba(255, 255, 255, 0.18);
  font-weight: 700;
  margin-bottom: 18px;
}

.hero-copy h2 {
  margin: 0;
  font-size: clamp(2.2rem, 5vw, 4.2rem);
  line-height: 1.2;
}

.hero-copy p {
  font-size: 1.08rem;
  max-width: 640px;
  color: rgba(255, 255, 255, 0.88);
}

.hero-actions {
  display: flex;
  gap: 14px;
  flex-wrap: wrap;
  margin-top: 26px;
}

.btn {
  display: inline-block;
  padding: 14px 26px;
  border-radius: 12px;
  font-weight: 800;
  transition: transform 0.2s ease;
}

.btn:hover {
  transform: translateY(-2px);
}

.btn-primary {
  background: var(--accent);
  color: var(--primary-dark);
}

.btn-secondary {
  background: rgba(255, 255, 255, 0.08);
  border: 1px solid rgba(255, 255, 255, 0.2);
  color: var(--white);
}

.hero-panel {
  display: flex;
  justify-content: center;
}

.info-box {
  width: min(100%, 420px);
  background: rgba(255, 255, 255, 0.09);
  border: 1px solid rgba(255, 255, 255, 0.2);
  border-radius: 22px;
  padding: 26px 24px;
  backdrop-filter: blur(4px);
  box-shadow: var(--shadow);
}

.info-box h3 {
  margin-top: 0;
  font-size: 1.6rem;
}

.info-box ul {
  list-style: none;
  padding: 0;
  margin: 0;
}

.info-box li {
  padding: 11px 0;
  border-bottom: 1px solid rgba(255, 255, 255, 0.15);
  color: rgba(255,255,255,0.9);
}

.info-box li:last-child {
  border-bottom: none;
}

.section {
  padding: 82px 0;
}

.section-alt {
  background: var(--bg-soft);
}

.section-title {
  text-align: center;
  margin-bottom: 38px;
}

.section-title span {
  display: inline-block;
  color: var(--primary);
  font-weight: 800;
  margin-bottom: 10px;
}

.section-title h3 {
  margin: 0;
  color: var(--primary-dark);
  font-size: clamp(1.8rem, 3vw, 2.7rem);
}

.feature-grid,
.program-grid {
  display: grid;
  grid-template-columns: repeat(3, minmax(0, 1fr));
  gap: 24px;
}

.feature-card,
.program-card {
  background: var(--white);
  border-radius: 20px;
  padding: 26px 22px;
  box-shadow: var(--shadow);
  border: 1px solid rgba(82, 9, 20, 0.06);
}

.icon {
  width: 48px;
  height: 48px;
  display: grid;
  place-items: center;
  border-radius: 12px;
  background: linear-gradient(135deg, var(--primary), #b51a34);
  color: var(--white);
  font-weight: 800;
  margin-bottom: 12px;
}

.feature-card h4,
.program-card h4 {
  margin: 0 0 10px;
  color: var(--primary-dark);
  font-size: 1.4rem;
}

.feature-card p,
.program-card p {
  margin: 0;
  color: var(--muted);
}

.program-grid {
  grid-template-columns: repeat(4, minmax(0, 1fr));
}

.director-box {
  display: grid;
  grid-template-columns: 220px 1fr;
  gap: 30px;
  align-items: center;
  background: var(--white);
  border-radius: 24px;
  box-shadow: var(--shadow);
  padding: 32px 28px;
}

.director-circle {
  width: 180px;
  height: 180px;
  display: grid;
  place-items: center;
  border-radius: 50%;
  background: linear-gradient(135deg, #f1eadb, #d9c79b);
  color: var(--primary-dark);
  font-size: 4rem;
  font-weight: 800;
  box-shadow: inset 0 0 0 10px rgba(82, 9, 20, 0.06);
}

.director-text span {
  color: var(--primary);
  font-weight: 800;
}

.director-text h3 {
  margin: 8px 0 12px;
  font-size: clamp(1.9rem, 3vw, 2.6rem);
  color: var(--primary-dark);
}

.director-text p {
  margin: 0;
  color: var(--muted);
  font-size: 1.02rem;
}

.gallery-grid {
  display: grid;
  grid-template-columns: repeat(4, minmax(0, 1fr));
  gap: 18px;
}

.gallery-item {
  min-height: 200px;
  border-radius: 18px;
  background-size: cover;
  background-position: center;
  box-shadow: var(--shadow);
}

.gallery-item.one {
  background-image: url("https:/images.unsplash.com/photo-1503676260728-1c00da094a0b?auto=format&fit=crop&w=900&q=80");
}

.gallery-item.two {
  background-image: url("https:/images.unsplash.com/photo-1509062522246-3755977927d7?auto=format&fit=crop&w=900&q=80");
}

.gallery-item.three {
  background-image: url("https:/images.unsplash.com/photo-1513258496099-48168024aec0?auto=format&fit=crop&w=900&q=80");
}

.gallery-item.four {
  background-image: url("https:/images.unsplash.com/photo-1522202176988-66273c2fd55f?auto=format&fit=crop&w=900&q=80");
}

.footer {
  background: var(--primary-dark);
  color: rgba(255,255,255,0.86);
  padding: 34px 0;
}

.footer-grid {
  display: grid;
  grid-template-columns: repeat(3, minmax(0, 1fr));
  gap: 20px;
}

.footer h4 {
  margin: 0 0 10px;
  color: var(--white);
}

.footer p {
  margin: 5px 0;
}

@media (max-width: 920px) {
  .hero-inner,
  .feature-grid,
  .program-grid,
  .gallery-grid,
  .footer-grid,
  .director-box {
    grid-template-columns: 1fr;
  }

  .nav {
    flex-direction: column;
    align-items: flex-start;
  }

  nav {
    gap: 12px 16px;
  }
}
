@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>مدرسة رماح بنين</title>
+    <meta
+      name="description"
+      content="مدرسة رماح بنين - حلقة ثانية وثالثة في العين، الإمارات العربية المتحدة"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="container nav">
+        <div class="brand" aria-label="مدرسة رماح بنين">
+          <div class="brand-mark">
+            <span class="book-bookmark"></span>
+            <span class="star"></span>
+          </div>
+          <div class="brand-text">
+            <h1>مدرسة رماح بنين</h1>
+            <small>حلقة ثانية وثالثة</small>
+          </div>
+        </div>
+
+        <nav aria-label="القائمة الرئيسية">
+          <a href="#about">من نحن</a>
+          <a href="#programs">البرامج</a>
+          <a href="#director">المديرة</a>
+          <a href="#gallery">الأنشطة</a>
+          <a href="#contact">تواصل</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container hero-inner">
+          <div class="hero-copy">
+            <span class="tag">تعليم يفتح آفاق المستقبل</span>
+            <h2>مستقبل مشرق يبدأ من هنا</h2>
+            <p>
+              مدرسة رماح بنين مؤسسة تعليمية تهدف إلى بناء شخصيات متوازنة، قادرة
+              على التفوق في الدراسة، والابتكار، والقيادة، والتمسك بالقيم.
+            </p>
+            <div class="hero-actions">
+              <a href="#contact" class="btn btn-primary">تواصل معنا</a>
+              <a href="#about" class="btn btn-secondary">اعرف المزيد</a>
+            </div>
+          </div>
+
+          <div class="hero-panel">
+            <div class="info-box">
+              <h3>معلومات المدرسة</h3>
+              <ul>
+                <li><strong>الموقع:</strong> العين، الإمارات العربية المتحدة</li>
+                <li><strong>المرحلة:</strong> حلقة ثانية وثالثة</li>
+                <li><strong>المديرة:</strong> سميرة البريكي</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section">
+        <div class="container">
+          <div class="section-title">
+            <span>من نحن</span>
+            <h3>بيئة تعليمية آمنة ومشجعة</h3>
+          </div>
+
+          <div class="feature-grid">
+            <article class="feature-card">
+              <div class="icon">01</div>
+              <h4>رسالتنا</h4>
+              <p>
+                إعداد جيل متميز يحقق النجاح الأكاديمي ويطور مهاراته الحياتية
+                والاجتماعية والقيادية.
+              </p>
+            </article>
+
+            <article class="feature-card">
+              <div class="icon">02</div>
+              <h4>رؤيتنا</h4>
+              <p>
+                أن تكون مدرسة رماح بنين نموذجاً مميزاً في التعليم المتوازن، والاهتمام
+                بالطالب، والارتقاء بالعملية التعليمية.
+              </p>
+            </article>
+
+            <article class="feature-card">
+              <div class="icon">03</div>
+              <h4>قيمنا</h4>
+              <p>
+                الالتزام، الاحترام، المسؤولية، التعاون، الإبداع، والاهتمام بالهوية
+                التعليمية العربية الإسلامية.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="programs" class="section section-alt">
+        <div class="container">
+          <div class="section-title">
+            <span>البرامج</span>
+            <h3>تعليم متكامل ومميز</h3>
+          </div>
+
+          <div class="program-grid">
+            <article class="program-card">
+              <h4>اللغة العربية</h4>
+              <p>تطوير مهارات القراءة، الفهم، التعبير، والكتابة بأسلوب متقدم.</p>
+            </article>
+
+            <article class="program-card">
+              <h4>الرياضيات</h4>
+              <p>تعزيز التفكير المنطقي وحل المشكلات عبر أنشطة تفاعلية.</p>
+            </article>
+
+            <article class="program-card">
+              <h4>العلوم</h4>
+              <p>تفعيل روح الاستكشاف من خلال التجارب والبحث العلمي.</p>
+            </article>
+
+            <article class="program-card">
+              <h4>الأنشطة الطلابية</h4>
+              <p>تنمية المهارات الاجتماعية والثقافية والرياضية والإبداعية.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="director" class="section">
+        <div class="container director-box">
+          <div class="director-photo">
+            <div class="director-circle">س</div>
+          </div>
+
+          <div class="director-text">
+            <span>كلمة المديرة</span>
+            <h3>سميرة البريكي</h3>
+            <p>
+              نؤمن أن المدرسة هي بيت العلم، ومكان يزرع في الطالب الثقة بالنفس،
+              والحب للمعرفة، والالتزام بالقيم، ويدربه على تحمل المسؤولية، ومواجهة
+              التحديات بثبات واهتمام. نسعى لأن تكون المدرسة بيئة داعمة للتفوق
+              الأكاديمي والإنماء الشخصي، مع إشاعة الروح الإيجابية والانضباط.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="gallery" class="section section-alt">
+        <div class="container">
+          <div class="section-title">
+            <span>الأنشطة</span>
+            <h3>رحلة تعلم ممتعة</h3>
+          </div>
+
+          <div class="gallery-grid">
+            <div class="gallery-item one"></div>
+            <div class="gallery-item two"></div>
+            <div class="gallery-item three"></div>
+            <div class="gallery-item four"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer id="contact" class="footer">
+      <div class="container footer-grid">
+        <div>
+          <h4>مدرسة رماح بنين</h4>
+          <p>العين، الإمارات العربية المتحدة</p>
+        </div>
+
+        <div>
+          <h4>تواصل معنا</h4>
+          <p>رقم الهاتف: سيتم إضافته لاحقاً</p>
+          <p>البريد الإلكتروني: سيتم إضافته لاحقاً</p>
+        </div>
+
+        <div>
+          <h4>المديرة</h4>
+          <p>سميرة البريكي</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
